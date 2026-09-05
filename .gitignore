@@ -1,0 +1,10 @@
+venv/
+train_lr/
+train_hr/
+train_hr-02/
+train_hr-03/
+train_hr_all/
+test_lr/
+test_hr/
+__pycache__/
+*.pyc
